@@ -12,7 +12,7 @@ Advantages of NumPy:
   
   1. PIP
 
-**If you use pip, you can install NumPy with:**
+If you use pip, you can install NumPy with:
 
 ****pip install numpy****
 
@@ -23,12 +23,12 @@ If you use conda, you can install NumPy from the defaults or conda-forge channel
  Best practice, use an environment rather than install in the base env
  
 ****conda create -n my-env
-conda activate my-env*****
+conda activate my-env****
  
  If you want to install from conda-forge
 
-****conda config --env --add channels conda-forge*****
+****conda config --env --add channels conda-forge****
  
  The actual install command
 
-****conda install numpy*****
+****conda install numpy****
