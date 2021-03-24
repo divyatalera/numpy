@@ -1,11 +1,17 @@
 # NumPy
 
 Advantages of NumPy:
+
   a. POWERFUL N-DIMENSIONAL ARRAYS
+
   b. NUMERICAL COMPUTING TOOLS
+  
   c. OPEN SOURCE
+  
   d. EASY TO USE
+  
   e. INTEROPERABLE
+  
   f. PERFORMANT
   
   Installation Steps:
